@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<!--
-
-kelyflores.bo@gmail.com <br><br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kely_florest/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kely_florest)
+cristalflores.bo@gmail.com <br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cristalflores.bo/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CristalfloresBo)
 
 
 ## 🤖🎨 Technologies:
