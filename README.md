@@ -3,6 +3,7 @@
 cristalflores.bo@gmail.com <br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cristalflores.bo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/CristalfloresBo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0076b3?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/cristal-flores-060425261/)
 
 
 ## 🤖🎨 Technologies:
@@ -14,6 +15,18 @@ cristalflores.bo@gmail.com <br><br>
  ![JavaScript](https://img.shields.io/badge/JavaScript-e8d44e?style=flat&logo=JavaScript&logoColor=white)
  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
  ![React](https://img.shields.io/badge/React-212121?style=flat&logo=react&logoColor=05d7fd&labelColor=212121)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+ ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+ ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+ ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=MUI&logoColor=white)
+ ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+ ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+	![Rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)
+	![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
+ ![Protractor](https://img.shields.io/badge/Protractor-ED163A?style=flat&logo=protractor&logoColor=white)
 
 ## GitHub Stats:
 
