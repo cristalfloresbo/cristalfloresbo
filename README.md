@@ -34,9 +34,9 @@ cristalflores.bo@gmail.com <br><br>
 | :--: | :--: | :--: |
 | ![language]| ![commit][commit]| ![streak][streak]|
 
-[language]: https://github-readme-stats.vercel.app/api/top-langs/?username=cristalft&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact
-[commit]: https://github-readme-stats.vercel.app/api?username=cristalft&theme=default&hide_border=false&include_all_commits=false&count_private=false
-[streak]: https://github-readme-streak-stats.herokuapp.com/?user=cristalft&theme=default&hide_border=false
+[language]: https://github-readme-stats.vercel.app/api/top-langs/?username=cristalfloresbo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact
+[commit]: https://github-readme-stats.vercel.app/api?username=cristalfloresbo&theme=default&hide_border=false&include_all_commits=false&count_private=false
+[streak]: https://github-readme-streak-stats.herokuapp.com/?user=cristalfloresbo&theme=default&hide_border=false
 <!---
 ## Repository:
 
@@ -44,7 +44,7 @@ cristalflores.bo@gmail.com <br><br>
 | :--: | :--: | :--: |
 | `default_repocard` ![default_repocard_repo] | `transparent` ![transparent_repo] | `shadow_red` ![shadow_red_repo] |
 
-[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=cristalft&repo=github-readme-stats&cache_seconds=86400&theme=default
+[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=cristalfloresbo&repo=github-readme-stats&cache_seconds=86400&theme=default
 [default_repocard_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default_repocard
 [transparent_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=transparent
 ---> 
