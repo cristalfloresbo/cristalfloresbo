@@ -3,7 +3,7 @@
 cristalflores.bo@gmail.com <br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cristalflores.bo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/CristalfloresBo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0076b3?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/cristal-flores-060425261/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0076b3?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/cristalfloresbo/)
 
 
 ## 🤖🎨 Technologies:
